@@ -38,6 +38,6 @@ Active collaborative role focused on curriculum quality assurance, code optimiza
 ### 4. 🎮 Software Engineering & Game Logic
 End-to-end design and implementation of a custom FreeCell Solitaire application featuring extended gameplay modes and analytical enhancements.
 * **Core Logic:** Rules engine managing card stacks, free cells, foundations, and movement validation.
-* **Add-on Features:** Custom state tracking, undo/redo stacks, dynamic hints/solvers, and performance tracking metrics.
-* 🚀 **[Play the Custom FreeCell Game Here](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/)**
+* **Add-on Features:** Custom state tracking, options for hidden rows / random cards, options for # of columns, leaderboard and timer. 
+* 🚀 **[Play the Custom FreeCell Game Here](https://andshawn529.github.io/FreeCellDelux/)**
 
